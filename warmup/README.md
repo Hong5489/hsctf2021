@@ -30,6 +30,7 @@ We gonna try to reverse the four function first
 
 ## Reverse functions
 1. The `hot` function just change `+` to `-`:
+
 Before | After
 --- | ---
 `s += (char) (t.charAt(i) + adj[i]);` | `s += (char) (t.charAt(i) - adj[i]);`
