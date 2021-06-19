@@ -95,8 +95,8 @@ flag{1ncr34s3_1n_3nth4lpy_0f_5y5}
 Thats the flag! Easy reverse challenege!
 
 Verify the flag:
-```
-java WarmupRev 
+```bash
+javac WarmupRev.java && java WarmupRev 
 Picked up _JAVA_OPTIONS: -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true
 Let's get warmed up! Please enter the flag: flag{1ncr34s3_1n_3nth4lpy_0f_5y5}
 You got it!
