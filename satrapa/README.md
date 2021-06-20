@@ -24,7 +24,7 @@ print(pow(pt,e,n))
 ```
 But it only give us the public key (n,e) and `p >> 512` , `q % 2^512`
 
-Which means it give us the top and bottom 512 bits of both factors!
+Which means it give us the **top and bottom 512 bits of both factors!**
 
 So how we use these two values to recover both factors?
 
